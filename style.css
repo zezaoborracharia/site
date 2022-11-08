@@ -1,3 +1,11 @@
- p{
-   text-align:center
+body { 
+ background: #F0F8F
+}
+
+p{
+   text-align: center;
+} 
+
+strong{
+ color: MistyRose;
 }
