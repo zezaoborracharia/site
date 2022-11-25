@@ -2,6 +2,10 @@ body {
  background: #F0F8F
 }
 
+#banner{
+     witdh: 100%;
+}
+
 h1{
    text-align:center
 }
@@ -16,3 +20,4 @@ p{
 em strong{
  color: #FFE4E1;
 }
+ 
